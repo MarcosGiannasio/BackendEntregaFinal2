@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "firtsName": "Marcos",
+    "lastName": "Giannasio",
+    "userName": "mgiannas",
+    "email": "marcosgianna@gmail.com",
+    "birthDate": "1991-12-19",
+    "password": "$2y$10$aWi.IKTCz5C4ZRUXMtRv/uJOR4VMoyF6IJgY6xeAvqNrm6mNJtvX6"
+  },
+  {
+    "_id": 2,
+    "firtsName": "Ciro",
+    "lastName": "Giannasio",
+    "userName": "cgiannas",
+    "email": "cirogianna@gmail.com",
+    "birthDate": "2022-04-15",
+    "password": "$2y$10$/L3g9rXU/rXEwkuI9GIZTeWyY0JksEgifEXOB3PFmy9QCK02FfIJa"
+  }
+]

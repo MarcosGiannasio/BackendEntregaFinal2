@@ -1,0 +1,55 @@
+### register
+POST http://localhost:8080/api/session/register
+Content-Type: application/json
+
+
+
+### register
+POST http://localhost:8080/api/session/register
+Content-Type: application/json
+
+{
+    "firtsName": "marcos",
+    "lastName": "Giannasio",
+    "email": "mgiannasio@gmail.com",
+    "userName": "mgiannasio",
+    "birthDate": "1965-10-05",
+    "password": "mgian"
+}
+
+### login
+post http://localhost:8080/api/session/login
+Content-Type: application/json
+
+{
+    "email": "marcosgiannasio@gmail.com,
+    "password": "marcosgiannasio"
+}
+
+### login
+post http://localhost:8080/api/session/login
+Content-Type: application/json
+
+{
+    "email": "marcosgiannasio@gmail.com",
+    "password": "marcosgiannasio"
+}
+
+### login
+post http://localhost:8080/api/session/login
+Content-Type: application/json
+
+{
+    "email": "marcosgiannasio@gmail.com,",
+    "password": "marcosgiannasio"
+}
+
+### acceder al current
+GET http://localhost:8080/api/session/current
+
+### privada
+GET http://localhost:8080/api/session/privada
+
+### logout
+GET http://localhost:8080/api/session/logout
+
